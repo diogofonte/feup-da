@@ -1,0 +1,12 @@
+# ninja log v5
+1	378	1650379032060438091	CMakeFiles/feup_da_GoodsDeliveryLogistics.dir/codigo/Encomenda.cpp.o	b46e746c0405d22
+1	410	1650379032092438201	CMakeFiles/feup_da_GoodsDeliveryLogistics.dir/codigo/Estafeta.cpp.o	2170ed0fd2d821e8
+0	498	1650379032180438505	CMakeFiles/feup_da_GoodsDeliveryLogistics.dir/codigo/main.cpp.o	ff021c58eb919402
+1	540	1650379032224438656	CMakeFiles/feup_da_GoodsDeliveryLogistics.dir/codigo/LoadData.cpp.o	b85986e0e05bcfd0
+0	607	1650379032288438877	CMakeFiles/feup_da_GoodsDeliveryLogistics.dir/codigo/Menu.cpp.o	bef6f849fced82a0
+1	761	1650379032444439415	CMakeFiles/feup_da_GoodsDeliveryLogistics.dir/codigo/Armazem.cpp.o	1f969b392d36216b
+761	823	1650379032504439622	../input/feup_da_GoodsDeliveryLogistics	2afb9b0b7ac15de3
+1	295	1650379748902125516	CMakeFiles/feup_da_GoodsDeliveryLogistics.dir/codigo/LoadData.cpp.o	b85986e0e05bcfd0
+1	297	1650379748906125523	CMakeFiles/feup_da_GoodsDeliveryLogistics.dir/codigo/main.cpp.o	ff021c58eb919402
+1	424	1650379749034125736	CMakeFiles/feup_da_GoodsDeliveryLogistics.dir/codigo/Menu.cpp.o	bef6f849fced82a0
+424	501	1650379749110125862	../input/feup_da_GoodsDeliveryLogistics	2afb9b0b7ac15de3

@@ -1,0 +1,4 @@
+/home/diogo_fonte/feup/da/project/cmake-build-debug-coverage/CMakeFiles/feup_da_GoodsDeliveryLogistics.dir
+/home/diogo_fonte/feup/da/project/cmake-build-debug-coverage/CMakeFiles/Doxygen.dir
+/home/diogo_fonte/feup/da/project/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+/home/diogo_fonte/feup/da/project/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
