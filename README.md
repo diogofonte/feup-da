@@ -1,6 +1,6 @@
 # Algorithms Design - DA - FEUP
 
-Projects developed during the 2nd semester of the 2021/2021 academic year.
+Projects developed during the 2nd semester of the 2021/2022 academic year.
 
 - [Project 1](/project-1)
 - [Project 2](/project-2)
